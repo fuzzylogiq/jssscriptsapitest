@@ -2,4 +2,3 @@
 
 ls -lart
 echo "goodbye"
-echo "done"

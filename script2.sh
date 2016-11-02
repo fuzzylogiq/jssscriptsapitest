@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ls -al
+ls -l
 echo "goodbye"

@@ -4,3 +4,4 @@
 # Who knows what they will do
 
 echo "scilkdjflskjdflkj"
+exit 1

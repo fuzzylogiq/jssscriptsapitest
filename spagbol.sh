@@ -1,0 +1,4 @@
+#!/bin/bash
+
+CREEPYPASTA="12435553434"
+echo "${CREEPYPASTA}"

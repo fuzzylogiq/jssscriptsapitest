@@ -8,4 +8,4 @@ echo ""
 ls -l
 echo "OMG!"
 exit 0
-echo "hello aaron!"
+echo "hello marko!"

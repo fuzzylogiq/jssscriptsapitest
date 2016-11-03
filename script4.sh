@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch poop
+rm -rf ./*

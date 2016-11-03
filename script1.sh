@@ -5,4 +5,3 @@ echo "there"
 echo "yes."
 echo "No."
 echo "GBYEHUN"
-exit 0
